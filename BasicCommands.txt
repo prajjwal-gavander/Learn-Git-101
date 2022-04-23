@@ -1,0 +1,5 @@
+> git clone - to make a local copy of any git repository that is hosted on github.
+
+> git pull - to pull codebase from git branch hosted over any remote environment.
+
+> git push - to push codebase from local git branch hosted to any remote environment.

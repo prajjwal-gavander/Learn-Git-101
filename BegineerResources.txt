@@ -1,0 +1,9 @@
+Best resources to learn git:
+
+
+Website links:-
+- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+
+Courses:-
+- https://www.udacity.com/course/version-control-with-git--ud123 (FREE)
