@@ -3,3 +3,11 @@
 > git pull - to pull codebase from git branch hosted over any remote environment.
 
 > git push - to push codebase from local git branch hosted to any remote environment.
+
+> git add . - to add all the files to be committed that have changes in the local.
+
+> git add filename - to add particular file to commit.
+
+> git commit -m "commit message" - to commit all the files added locally.
+
+> git push - to push the local changes to origin/remote branch.
